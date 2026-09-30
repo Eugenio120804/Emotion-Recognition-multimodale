@@ -1,6 +1,6 @@
 # Multimodal Emotion Recognition su IEMOCAP
 
-Questo repository contiene il codice sorgente per gli esperimenti condotti nell'ambito della tesi di laurea in Ingegneria e Scienze Informatiche per la Cybersecurity, dal titolo 'Un approccio Zero-Shot per l'analisi e confronto tra modelli di Emotion Recognition multimodale nel contesto della prevenzione di Insider Threats'. Il progetto valuta le prestazioni di architetture visivo-linguistiche (LLaVA-NeXT) integrate con modelli NLP (DistilRoBERTa) per il riconoscimento multimodale delle emozioni.
+Questo repository contiene il codice sorgente per gli esperimenti condotti nell'ambito della tesi di laurea in Ingegneria e Scienze Informatiche per la Cybersecurity, dal titolo 'Un approccio Zero-Shot per l'analisi e il confronto tra modelli di Emotion Recognition multimodale nel contesto della prevenzione di Insider Threats'. Il progetto valuta le prestazioni di architetture visivo-linguistiche (LLaVA-NeXT) integrate con modelli NLP (DistilRoBERTa) per il riconoscimento multimodale delle emozioni.
 
 ## Struttura della Repository
 I file sono suddivisi in due macro-categorie:
