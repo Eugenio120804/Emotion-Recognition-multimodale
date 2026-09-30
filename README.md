@@ -8,8 +8,8 @@ I file sono suddivisi in due macro-categorie:
 *   **Script di Esecuzione (Esperimenti):**
     *   `esperimento1_base.py`: Pipeline Zero-Shot con elaborazione simultanea video/testo.
     *   `esperimento2_canali_separati.py`: Approccio sequenziale (analisi linguistica BERT passata come prompt a LLaVA).
-    *   `esperimento2_v2_distribuzione.py`: Iniezione dell'embedding probabilistico di BERT nel VLM.
     *   `esperimento3_solo_BERT.py`: Isolamento e valutazione delle prestazioni della sola componente testuale.
+    *   `esperimento2_v2_distribuzione.py`: Iniezione dell'embedding probabilistico di BERT nel VLM.
 *   **Analisi Dati e Metriche:**
     *   `matrice_confusione_*.py`: Script per la generazione grafica delle matrici di confusione a partire dai CSV di output.
     *   `analisi_disaccordi.py`: Script per l'analisi dei casi di disaccordo multimodale.
