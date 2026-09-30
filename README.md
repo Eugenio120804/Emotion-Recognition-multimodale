@@ -14,9 +14,6 @@ I file sono suddivisi in due macro-categorie:
     *   `matrice_confusione_*.py`: Script per la generazione grafica delle matrici di confusione a partire dai CSV di output.
     *   `analisi_disaccordi.py`: Script per l'analisi dei casi di disaccordo multimodale.
 
-## Note sul Dataset (IEMOCAP)
-A causa dei vincoli di licenza e degli accordi di non divulgazione (NDA), il dataset originale IEMOCAP e i video sorgenti non sono inclusi in questa repository. Il dataset può essere richiesto per scopi accademici agli autori presso la University of Southern California (USC).
-
 ## Riproducibilità e Installazione
 Tutti gli script sono stati ottimizzati per l'esecuzione su cluster HPC (High Performance Computing) purpleJeans. 
 Per installare le dipendenze necessarie, eseguire:
