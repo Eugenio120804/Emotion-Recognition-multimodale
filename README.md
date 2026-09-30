@@ -7,7 +7,7 @@ I file sono suddivisi in due macro-categorie:
 
 *   **Script di Esecuzione (Esperimenti):**
     *   `esperimento1_base.py`: Pipeline Zero-Shot con elaborazione simultanea video/testo.
-    *   `esperimento2_canali_separati.py`: Approccio sequenziale (Analisi linguistica BERT passata come prompt a LLaVA).
+    *   `esperimento2_canali_separati.py`: Approccio sequenziale (analisi linguistica BERT passata come prompt a LLaVA).
     *   `esperimento2_v2_distribuzione.py`: Iniezione dell'embedding probabilistico di BERT nel VLM.
     *   `esperimento3_solo_BERT.py`: Isolamento e valutazione delle prestazioni della sola componente testuale.
 *   **Analisi Dati e Metriche:**
