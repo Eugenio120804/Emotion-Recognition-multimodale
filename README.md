@@ -2,7 +2,7 @@
 
 Questo repository contiene il codice sorgente per gli esperimenti condotti nell'ambito della tesi di laurea in Ingegneria e Scienze Informatiche per la Cybersecurity, dal titolo 'Un approccio Zero-Shot per l'analisi e il confronto tra modelli di Emotion Recognition multimodale nel contesto della prevenzione di Insider Threats'. Il progetto valuta le prestazioni di architetture visivo-linguistiche VLM (LLaVA-NeXT) integrate con modelli NLP basati su BERT (DistilRoBERTa) per il riconoscimento multimodale delle emozioni.
 
-## Struttura della Repository
+## Struttura del Repository
 I file sono suddivisi in due macro-categorie:
 
 *   **Script di Esecuzione (Esperimenti):**
